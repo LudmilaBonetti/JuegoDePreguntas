@@ -1,0 +1,45 @@
+[
+    {
+        "categoria": "Filosofía",
+        "pregunta": "¿La palabra filosofía significa?",
+        "respuesta": "Amor a la sabiduría",
+        "incorrecta1": "Búsqueda de explicaciones",
+        "incorrecta2": "Ciencia del conocimiento",
+        "imagen": "https://i.ibb.co/0FGpsqx/Pregunta1-F.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofía",
+        "pregunta": "Para que una idea filosófica perdure en la historia, necesita..",
+        "respuesta": "Apoyo",
+        "incorrecta1": "Ser verdad",
+        "incorrecta2": "Evidencia",
+        "imagen": "https://i.ibb.co/pRCJBBy/Pregunta2-F.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofía",
+        "pregunta": "Quién fue considerado el primer filósofo",
+        "respuesta": "Tales de mileto",
+        "incorrecta1": "Sócrates",
+        "incorrecta2": "Anaxágoras",
+        "imagen": "https://i.ibb.co/jZtPk5D/mileto.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Filosofía",
+        "pregunta": "¿A qué nos referimos al hablar de dualismo órfico?",
+        "respuesta": "Alma y cuerpo",
+        "incorrecta1": "Esencia y existencia",
+        "incorrecta2": "Dioses y hombres",
+        "imagen": "https://i.ibb.co/3M9Nx6N/orfico.jpg"
+    },
+    {
+        "categoria": "Filosofía",
+        "pregunta": "Un mito se caracteriza por servir como...",
+        "respuesta": "Paradigma de acción humana",
+        "incorrecta1": "Ambas son correctas",
+        "incorrecta2": "Lazo con Dios",
+        "imagen": "https://i.ibb.co/60gYNPT/mito.jpg"
+    }
+]
